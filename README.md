@@ -81,4 +81,19 @@ Los usuarios pueden seleccionar y personalizar sus entrenamientos, ajustando la 
 
 ## Prototipo
 
-Para tener una idea inicial del diseño de la aplicación, se ha elaborado un prototipo de baja fidelidad en Figma.
+Para tener una idea inicial del diseño de la aplicación, se ha elaborado un prototipo de baja fidelidad en Figma: https://www.figma.com/design/QkNV6iNaHxQmvCo2WHmdlq/Untitled?m=dev&node-id=0-1&t=xtdXZfpCvIGBxgkm-1
+En este prototipo se presentan 4 vistas principales:
+- La primera es la vista de inicio, en la cual solo existe un bóton de Start, que lleva a la vista de menú.
+- La segunda es la vista de menú, en la cual se puede seleccionar uno de los 3 modos de juegos de la aplicación. En caso se eligiese el modo de práctica de tapado de penales, también se presentan 3 recuadros para seleccionar parámetros como la velocidad del balón, el intervalo entre cada lanzamiento y su trayectoria.
+- La tercera vista es la del modo de lanzamientos. En la figura 1, se pueden ver los elementos presentes durante este modo de práctica.
+- La cuarta vista es la del modo de tapado. En la figura 2, se pueden ver los elementos presentes durante este modo de práctica.
+- Al seleccionar el modo de partida contra la máquina clickeando el botón de Start Match de la vista del menú, se alternará entre la tercera y cuarta vista para simular el cambio de turnos que sucede en una serie real de penales.
+
+## Cronograma de trabajo
+
+Tabla de cronograma
+
+## Referencias
+
+- Putranto, J. S., Heriyanto, J., Kenny, Said, A., \& Kurniawan, A. (2023). Implementation of virtual reality technology for sports education and training: Systematic literature review. Procedia Computer Science, 216, 293-300. https://doi.org/10.1016/j.procs.2022.12.139
+- Sha’lan, M. A. M. (2023). The effect of using virtual reality technology, VR BOX glasses, on learning the skill of shooting in handball. Revista Iberoamericana de Psicología del Ejercicio y el Deporte, 18(2), 163-169.
