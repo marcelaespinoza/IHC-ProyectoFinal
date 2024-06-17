@@ -21,6 +21,13 @@ Tabla de requisitos
 |Código|Descripción|Prioridad|
 |------|-----------|---------|
 |RF01  |El usuario puede lanzar un balón|Must Have|
+|RF02  |El usuario puede bloquear un lanzamiento de balón|Must Have|
+|RF03  |El usuario puede practicar lanzamiento de penales de balonmano|Must Have|
+|RF04  |El usuario puede practicar tapado de penales de balonmano|Must Have|
+|RF05  |El usuario puede modificar parámetros como la velocidad de tiro, el intervalo entre ellos y su trayectoria en la práctica de tapado de penales de balonmano|Must Have|
+|RF06  |El usuario es capaz de detener la práctica cuando desee|Must Have|
+|RF07  |El usuario puede ver las estadísticas de qué tan bien ha rendido al final de una serie de práctica ya sea de lanzamientos o tapados|Must Have|
+|RF08  |El usuario puede jugar una serie de penales de balonmano frente a la máquina (ser delantero y portero)|Must Have|
 
 
 La definición de estos requerimientos funcionales se realizó a partir de las principales preocupaciones que enfrentan deportistas al prácticar balónmano, estas fueron: 
