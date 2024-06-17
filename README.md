@@ -16,8 +16,6 @@ Adicional a ello, otro estudio titulado "The Effect of Using Virtual Reality Tec
 
 ### Requisitos funcionales
 
-Tabla de requisitos
-
 |Código|Descripción|Prioridad|
 |------|-----------|---------|
 |RF01  |El usuario puede lanzar un balón|Must Have|
@@ -29,7 +27,6 @@ Tabla de requisitos
 |RF07  |El usuario puede ver las estadísticas de qué tan bien ha rendido al final de una serie de práctica ya sea de lanzamientos o tapados|Must Have|
 |RF08  |El usuario puede jugar una serie de penales de balonmano frente a la máquina (ser delantero y portero)|Must Have|
 
-
 La definición de estos requerimientos funcionales se realizó a partir de las principales preocupaciones que enfrentan deportistas al prácticar balónmano, estas fueron: 
 - Falta de espacios para practicar balónmano
 - Pérdida de tiempo por tener que trasladarse de un lugar a otro para poder prácticar
@@ -40,7 +37,11 @@ Las dos primeras preocupaciones se resuelven de manera general con la construcci
 
 ### Requisitos no funcionales
 
-Tabla de requisitos
+|Código|Descripción|Prioridad|
+|------|-----------|---------|
+|RNF01  |La aplicacion debe ejecutarse en visores Meta Quest 2|Must Have|
+|RNF02  |La aplicacion será desarrollada en Unity|Must Have|
+|RNF03  |Los textos de la aplicación estarán en inglés|Must Have|
 
 Los requisitos RNF01 y RNF02 se refieren al desarrollo de la aplicación y en las plataformas en la que se ejecutará. Mientras que el requesito RNF03 fue decidido para poder llegar a un público internacional.
 
