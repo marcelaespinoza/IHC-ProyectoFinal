@@ -20,14 +20,8 @@ Tabla de requisitos
 
 |Código|Descripción|Prioridad|
 |------|-----------|---------|
-|RF01  | xd        |Must Have|
+|RF01  |El usuario puede lanzar un balón|Must Have|
 
-| N     | D=2   | D=4   | D=8   | D=16  | D=32  | D=64  |
-|-------|-------|-------|-------|-------|-------|-------|
-| 100   | 0.001 | 0.002 | 0.003 | 0.004 | 0.005 | 0.006 |
-| 1000  | 0.010 | 0.020 | 0.030 | 0.040 | 0.050 | 0.060 |
-| 10000 | 0.100 | 0.200 | 0.300 | 0.400 | 0.500 | 0.600 |
-| 100000| 1.000 | 2.000 | 3.000 | 4.000 | 5.000 | 6.000 |
 
 La definición de estos requerimientos funcionales se realizó a partir de las principales preocupaciones que enfrentan deportistas al prácticar balónmano, estas fueron: 
 - Falta de espacios para practicar balónmano
