@@ -104,8 +104,10 @@ Para tener una idea inicial del diseño de la aplicación, se ha elaborado un pr
 En este prototipo se presentan 4 vistas principales:
 - La primera es la vista de inicio, en la cual solo existe un bóton de Start, que lleva a la vista de menú.
 - La segunda es la vista de menú, en la cual se puede seleccionar uno de los 3 modos de juegos de la aplicación. En caso se eligiese el modo de práctica de tapado de penales, también se presentan 3 recuadros para seleccionar parámetros como la velocidad del balón, el intervalo entre cada lanzamiento y su trayectoria.
-- La tercera vista es la del modo de lanzamientos. En la figura 1, se pueden ver los elementos presentes durante este modo de práctica.
-- La cuarta vista es la del modo de tapado. En la figura 2, se pueden ver los elementos presentes durante este modo de práctica.
+- La tercera vista es la del modo de lanzamientos. En la siguiente figura, se pueden ver los elementos presentes durante este modo de práctica.
+![tapar](https://github.com/marcelaespinoza/IHC-ProyectoFinal/assets/83974552/d9e5934b-7318-4e5a-80ec-c10c7846e4f0)
+- La cuarta vista es la del modo de tapado. En la siguiente figura, se pueden ver los elementos presentes durante este modo de práctica.
+![lanzar](https://github.com/marcelaespinoza/IHC-ProyectoFinal/assets/83974552/9e85f689-5963-42cd-a68b-3adb75fdfb49)
 - Al seleccionar el modo de partida contra la máquina clickeando el botón de Start Match de la vista del menú, se alternará entre la tercera y cuarta vista para simular el cambio de turnos que sucede en una serie real de penales.
 
 ## Cronograma de trabajo
