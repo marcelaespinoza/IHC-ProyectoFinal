@@ -110,7 +110,14 @@ En este prototipo se presentan 4 vistas principales:
 
 ## Cronograma de trabajo
 
-Tabla de cronograma
+
+|Entrega|Avance|Progreso (%)|
+|-------|------|------------|
+|DONE|Determinar los assets con los que se van a trabajar|15|
+|Semana 12|Programar las mécanicas del balón referidas en los requisitos RF01 y RF02|30|
+|Semana 13|Desarrollar el escenario de práctica de lanzamiento de penales|50|
+|Semana 14|Desarrollar el escenario de práctica de tapado de penales|70|
+|Semana 16|Desarrollar el escenario de partidas contra la máquina (la serie de penales referida en el requisito RF08)|100|
 
 ## Referencias
 
