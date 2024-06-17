@@ -70,7 +70,13 @@ https://miro.com/welcomeonboard/RUg2SFNRQ1NVQnBFR0NWSVZLMWlMbVNweUFueEVYOW5rc3kx
 
 ### Métrica HEART
 
-Tabla de metricas
+|HEART|Objetivos|Señales|Métricas|
+|-----|---------|-------|--------|
+|Happiness|Satisfacción del usuario|Encuestas de satisfacción|Índice de satisfacción|
+|Engagement|Aumentar el tiempo de práctica|Cantidad de tiempo en la aplicación|Tiempo promedio por sesión|
+|Adoption|Incrementar el número de usuarios|Nuevas descargas|Número de nuevos usuarios|
+|Retention|Fidelizar a los usuarios|Usuarios recurrentes|Retention rate y churn rate|
+|Task success|Mejorar la precisión en lanzamientos/atrapadas|Sonido/Indicador de éxito en el lanzamiento|Score de lanzamientos/atrapadas exitosas|
 
 ## Framework de diseño
 
