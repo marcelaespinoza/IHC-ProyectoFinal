@@ -125,6 +125,8 @@ En este prototipo se presentan 4 vistas principales:
 |Semana 14|Desarrollar el escenario de práctica de tapado de penales|70|
 |Semana 16|Desarrollar el escenario de partidas contra la máquina (la serie de penales referida en el requisito RF08)|100|
 
+## Plan de despliegue
+Para el plan de despliegue revise la wiki del repositorio por favor
 ## Referencias
 
 - Putranto, J. S., Heriyanto, J., Kenny, Said, A., \& Kurniawan, A. (2023). Implementation of virtual reality technology for sports education and training: Systematic literature review. Procedia Computer Science, 216, 293-300. https://doi.org/10.1016/j.procs.2022.12.139
